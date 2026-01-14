@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Lasha 👋
 
-<!--
-**LashaJaparidze15/LashaJaparidze15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software development student  
 
-Here are some ideas to get you started:
+## Featured Projects
+- **DevConnect** - Full-stack developer networking platform
+- **Buddy** - Smart daily planner with API integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Frontend: React, Vue, Tailwind CSS
+- Backend: Node.js, Python, FastAPI, PHP
+- Databases: MongoDB, MySQL, SQLite
+- Tools: Git, Docker, AWS/Vercel
+
+

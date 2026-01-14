@@ -1,4 +1,4 @@
-# Hi, I'm Lasha 👋
+# Hi, I'm Lasha :)
 
 Software development student  
 

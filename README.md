@@ -51,12 +51,3 @@ Building and maintaining a **Strapi + PostgreSQL** backend and **React** clinici
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-<div align="center">
-
-![Lasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LashaJaparidze15&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=10B981&icon_color=10B981)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LashaJaparidze15&layout=compact&hide_border=true&langs_count=8&title_color=10B981)
-
-</div>

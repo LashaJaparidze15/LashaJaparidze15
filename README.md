@@ -12,7 +12,7 @@ Computer Science student at **SETU Carlow**, based in Carlow, Ireland. I build f
 
 ### Currently building
 
-**[bizfinder.ie](https://github.com/LashaJaparidze15/bizfinder-ie)** — a national Irish business directory & analytics platform (building it with one other developer). Next.js SSR for SEO, an Expo mobile app, a Fastify API, and Python scrapers, all on Supabase with PostGIS + pgvector and Stripe billing. It currently holds **46,000+ businesses across all 26 ROI counties**, with semantic "similar business" search (vector embeddings), first-party reviews, and a business-owner claim flow.
+**[bizfinder.ie](https://github.com/LashaJaparidze15/bizfinder-ie)** — a national Irish business directory & analytics platform. Next.js SSR for SEO, an Expo mobile app, a Fastify API, and Python scrapers, all on Supabase with PostGIS + pgvector and Stripe billing. It currently holds **46,000+ businesses across all 26 ROI counties**, with semantic "similar business" search (vector embeddings), first-party reviews, and a business-owner claim flow.
 &nbsp;&nbsp;**Live → [bizfinder-ie-web.vercel.app](https://bizfinder-ie-web.vercel.app)**
 
 ### Experience

@@ -20,6 +20,10 @@ Computer Science student at **SETU Carlow**, based in Carlow, Ireland. I build f
 **Full-Stack Developer** — health & wellness platform *(production)*
 Building and maintaining a **Strapi + PostgreSQL** backend and **React** clinician/admin dashboards used in production. Work includes designing REST APIs, multiple React dashboard apps, and third-party data integrations (continuous glucose-monitoring syncs from Dexcom & FreeStyle Libre), deployed on Heroku.
 
+### Open source
+
+**[@fastify/http-proxy #472](https://github.com/fastify/fastify-http-proxy/pull/472)** — *merged into `main` by Fastify's lead maintainer.* Fixed a bug where a proxied request would crash entirely if an upstream response contained invalid HTTP header characters (control chars or code points > 0xFF). Added `sanitizeHeaderValue` / `sanitizeHeaders` utilities (handling both string and array values like `set-cookie`) with unit tests — now shipping in the published package.
+
 ### Featured projects
 
 | Project | What it is | Stack | Live |

@@ -1,6 +1,6 @@
 # Lasha Japaridze
 
-Computer Science student at **SETU Carlow**, based in Carlow, Ireland. I build full-stack web apps and actually ship them — most of the projects below are deployed and running, not just sitting in a repo.
+Software Development student at **SETU Carlow**, based in Carlow, Ireland. I build full-stack web apps and actually ship them — most of the projects below are deployed and running, not just sitting in a repo.
 
 **Open to internship & graduate software developer roles.**
 
